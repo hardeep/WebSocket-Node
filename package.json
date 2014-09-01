@@ -20,5 +20,8 @@
     "main": "index",
     "directories": {
         "lib": "./lib"
+    },
+    "dependencies": {
+        "bunyan": "*"
     }
 }
